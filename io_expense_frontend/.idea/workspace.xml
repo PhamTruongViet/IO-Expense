@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c631b0-9fcd-4bc7-9dee-a7aed70c15b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/DrawIO/test.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/DrawIO/test.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/Categories/transaction_types_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/Categories/transaction_types_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/budget/budget_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/budget/budget_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/budget/progress_calculator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/budget/progress_calculator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/splash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/splash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/transaction/transaction_input_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/transaction/transaction_input_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/UI/transaction/transaction_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/UI/transaction/transaction_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/helper/database_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/helper/database_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/services/api_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/services/api_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/services/auth_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/services/auth_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_expense_data/lib/services/notification_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/io_expense_data/lib/services/notification_service.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2m40spNOtNpSuprJ8nAbKWYDgP8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ScreenshotViewer.SavePath": "C:/Users/phamt/Pictures/Screenshots",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.android.tools.idea.streaming.emulator.frame.visible": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/phamt/source/repos/ANDOID_PJ/io_expense_frontend/io_expense_data/android",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phamt\source\repos\ANDOID_PJ\io_expense_frontend\io_expense_data\lib\UI\transaction" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/io_expense_data/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c631b0-9fcd-4bc7-9dee-a7aed70c15b6" name="Changes" comment="" />
+      <created>1726320751782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726320751782</updated>
+    </task>
+    <servers />
+  </component>
+</project>
