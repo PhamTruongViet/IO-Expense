@@ -1,0 +1,13 @@
+{
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "C:\\Users\\phamt\\AppData\\Local\\Google\\AndroidStudio2023.3\\device-explorer\\Pixel 8 Pro API 35\\_\\data\\data\\com.example.io_expense_data\\databases\\app_database.db",
+      "name": "io_expense"
+    }
+  ],
+  "synthwave84.disableGlow": false,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
